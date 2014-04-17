@@ -1,0 +1,38 @@
+{
+  "main": "index.html",
+  "name": "Pong",
+  "description": "Pong with Phaser and Node-webkit",
+  "version" : "0.1.0",
+  "keywords": [ "pong", "phaser", "node-webkit", "isen"],
+  
+
+  "window": {
+    "title": "Pong",
+    "icon": "icon.png",
+    "toolbar": false,
+    "frame": true,    
+    "width": 480,
+    "min_width": 480,
+    "max_width": 480,
+    "height": 660,
+    "min_height": 660,
+    "max_height": 660,
+    
+    "show": true,
+    "position": "center"
+    
+  },
+  "maintainers":[{
+    "name": "Jonathan SAEZ",
+    "email": "jonathan.saez@isen.fr",
+    "web": "http://www.kandran.eu"
+    
+  }],
+  "bugs": "https://github.com/kandran/pong/issues",
+  "repositories": [{
+    "type": "git", 
+    "url": "https://github.com/kandran/pong.git"
+  }]
+  
+
+}
