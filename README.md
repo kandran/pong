@@ -4,7 +4,7 @@ Pong
 ## Présentation
 
 
-Pong est un projet Open Source réalisé par [ISEN Dev](http://isendev.tumblr.com/).
+Pong est un projet Open Source réalisé par [ISEN Dev](http://isendev.tumblr.com/) (ISEN dev est un projet de l’association ISEN Engineering).
 
 Il s'agit d'un pong utilisable sur windows dévélopper a l'aide de technologies web.
 
