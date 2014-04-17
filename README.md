@@ -4,16 +4,16 @@ Pong
 ## Présentation
 
 
-Pong est un projet Open Source réalisé par des étudiants de l'[ISEN-Toulon](http://www.isen.fr/toulon.asp).
+Pong est un projet Open Source réalisé par [ISEN Dev](http://isendev.tumblr.com/).
 
 Il s'agit d'un pong utilisable sur windows dévélopper a l'aide de technologies web.
 
 Pong utilise les technologies suivantes:
 
-* Node-webkit
+* [Node-webkit](https://github.com/rogerwang/node-webkit)
 * JS
 * HTML5 / CSS3
-* Phaser
+* [Phaser](http://phaser.io/)
 
 
 ## License
