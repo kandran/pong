@@ -39,7 +39,8 @@ Le menu avec les scores :
 
 ## Prérequis
 
-* Windows
+* Phaser
+* Node Webkit
 
 ## License
 
