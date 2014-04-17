@@ -15,14 +15,39 @@ Pong utilise les technologies suivantes:
 * HTML5 / CSS3
 * [Phaser](http://phaser.io/)
 
+# Utilisation
+
+Il s'agit d'une fenetre assez simple contenant uniquement le jeu.
+
+Il y a trois principal affichage :
+
+Le menu du début : 
+
+  ![image not loaded...](http://img.myzupics.com/ab/x5x.jpg)
+  
+  
+Le jeu : 
+
+  ![image not loaded...](http://img.myzupics.com/ab/vsb.jpg)
+  
+  
+Le menu avec les scores : 
+
+  ![image not loaded...](http://img.myzupics.com/ab/jn0.jpg)
+
+
+
+## Prérequis
+
+* Windows
 
 ## License
 
 Pong est libre et gratuit. Il est distribué dans les termes de la license [GNU GPL v3](http://www.gnu.org/licenses/gpl.html). Pour plus d'information, lisez le fichier LICENSE.
 
-## Prérequis
 
-* Windows
+
+
 
 
 
