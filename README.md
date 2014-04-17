@@ -23,17 +23,17 @@ Il y a trois principal affichage :
 
 Le menu du début : 
 
-  ![image not loaded...](http://img.myzupics.com/ab/x5x.jpg)
+  ![image not loaded...](http://img.myzupics.com/ab/mg5.jpg)
   
   
 Le jeu : 
 
-  ![image not loaded...](http://img.myzupics.com/ab/vsb.jpg)
+  ![image not loaded...](http://img.myzupics.com/ab/6ar.jpg)
   
   
 Le menu avec les scores : 
 
-  ![image not loaded...](http://img.myzupics.com/ab/jn0.jpg)
+  ![image not loaded...](http://img.myzupics.com/ab/n8i.jpg)
 
 
 
