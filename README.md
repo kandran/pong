@@ -42,7 +42,7 @@ Le menu avec les scores :
 * Phaser
 * Node Webkit
 
-## License
+## Licence
 
 Pong est libre et gratuit. Il est distribué dans les termes de la license [GNU GPL v3](http://www.gnu.org/licenses/gpl.html). Pour plus d'information, lisez le fichier LICENSE.
 
